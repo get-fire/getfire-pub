@@ -1,4 +1,4 @@
-# GetFire
+# Get Fire
 
 Fire chat API
 
