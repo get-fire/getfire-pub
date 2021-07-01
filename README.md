@@ -42,8 +42,8 @@ Create your own 'topic' in-app on GetFire.net in the bottom-right 'topic' menu u
 
 SSL is required.
 
----
+Contact GetFire (GetFire.net/contact or getfire.net@gmail.com) to confirm your URL.
 
-Contact GetFire (getfire.net@gmail.com) to confirm your URL, for comments or opportunities.
+---
 
 ©2012-2021 GetFire.net All rights reserved.
