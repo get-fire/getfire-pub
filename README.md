@@ -7,24 +7,24 @@ Include:
 ---
 
 ```
-<script src="https://rawcdn.githack.com/..." type="text/javascript"></script>
+<script src="https://rawcdn.githack.com/get-fire/getfire-pub/ac7162cc5f03bfe8e951ecaddee6dc869e66f171/dist/getfire.1.8.min.js" type="text/javascript"></script>
 ```
 
 Init:
 ---
 ```
-var chat = GETFIRE({topicName: "test", defaultName: "Bobbeh"});
+var chat = GETFIRE({topicNames: ["test", "welcome"], defaultName: "Bobbeh"});
 ```
 
 Options:
 ---
 ```
-topicName: "name of topic",
+topicNames: ["list of", "topics"],
 defaultName: "name of new users",
-startOpen: true || false, // Init chat already opened
-fullHeight: true || false, // Init chat as full height
-clickAwayIgnore: true || false, // Do not close chat when clicked away from
-clickBubbleClose: true || false // Click chat preview to close
+startOpen: false, // Init chat already opened
+startPreview: false, // Init chat in preview mode
+clickAwayHide: false, // Close chat when clicked away from
+mouseOutFade: false // Add opacity to unfocused chat
 ```
 
 Notes:
@@ -39,10 +39,8 @@ Examples:
 ---
 https://reunitethetribe.blogspot.com/
 
-https://mot.moe
-
 https://treha.online
 
 ---
 
-©2012-2021 GetFire.net All rights reserved.
+©2012-2022 GetFire.net All rights reserved.
