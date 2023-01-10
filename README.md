@@ -43,4 +43,4 @@ https://treha.online
 
 ---
 
-©2012-2022 GetFire.net All rights reserved.
+©2012-2023 GetFire.net All rights reserved.
