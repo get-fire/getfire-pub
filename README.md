@@ -45,4 +45,4 @@ https://mot.moe
 
 ---
 
-©2012-2024 GetFire.net All rights reserved.
+©2012-2025 GetFire.net All rights reserved.
