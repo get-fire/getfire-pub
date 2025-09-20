@@ -33,11 +33,10 @@ Create your own 'topic' in-app on GetFire.net using the search bar at the top of
 
 SSL is required.
 
-Contact GetFire (https://GetFire.net/contact or getfire.net@gmail.com) to confirm your URL.
+Contact GetFire (https://GetFire.net/contact or getfirenet@proton.me) to confirm your URL.
 
 Examples:
 ---
-https://reunitethetribe.blogspot.com/
 
 https://treha.online
 
