@@ -7,7 +7,7 @@ Include:
 ---
 
 ```
-<script src="https://rawcdn.githack.com/get-fire/getfire-pub/f245654987a942473ca895d2a1099e8025c0c240/dist/getfire.1.8.1.min.js" type="text/javascript"></script>
+<script src="https://cdn.acquirefire.net/chat/getfire.js" type="text/javascript"></script>
 ```
 
 Init:
@@ -25,6 +25,7 @@ startOpen: false, // Init chat already opened
 startPreview: false, // Init chat in preview mode
 clickAwayHide: false, // Close chat when clicked away from
 mouseOutFade: false // Add opacity to unfocused chat
+topCorner: false // Top right corner anchor
 ```
 
 Notes:
