@@ -39,7 +39,7 @@ Contact GetFire (https://GetFire.net/contact or getfirenet@proton.me) to confirm
 Examples:
 ---
 
-https://treha.online
+https://aether.garden
 
 https://mot.moe
 
