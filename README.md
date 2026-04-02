@@ -2,7 +2,7 @@
 
 Fire chat API
 
-Add chat rooms to your site or web app for free with the GetFire API!
+Add chat rooms to your site or web app for free with GetFire!
 
 
 Include:
